@@ -102,21 +102,30 @@ class AatifWani:
 
 ---
 
-## 🏆 GitHub Achievements
+ ## 🎯 My Coding Journey
+
+> *Every expert was once a beginner. This is where mine starts.*
 
 <div align="center">
 
- ![trophy](https://github-profile-trophy.vercel.app/?username=Aatif-wani&theme=radical&no-frame=true&margin-w=15&margin-h=15)
+| Milestone | Status |
+|---|---|
+| 🐍 Learned Python fundamentals | ✅ Done |
+| 💻 Completed CS50x (Harvard) | 🔄 In Progress |
+| 🌐 Built first Flask web app | 🔄 In Progress |
+| 🗃️ Mastered SQL & Databases | 🔄 In Progress |
+| 🤝 First open-source contribution | ⏳ Upcoming |
+| 🏆 Solved 50+ DSA problems | ⏳ Upcoming |
+| 💼 Landed first internship | 🎯 Goal |
+| 🚀 Launched a startup | 🌟 Dream |
 
 </div>
-
----
 
 ## 📈 Contribution Graph
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Aatif-wani&theme=tokyo-night&hide_border=true)
+ ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Aatif-wani&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&hide_border=true)
 
 </div>
 
@@ -144,5 +153,5 @@ class AatifWani:
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Code.+Create.+Contribute.+Make+an+Impact.+%E2%9C%A8;Building+one+project+at+a+time+%F0%9F%9A%80;Open+to+collaborations+%26+internships+%F0%9F%A4%9D" alt="Footer Typing" />
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Aatif-wani&color=blueviolet&style=for-the-badge&label=Profile+Views)
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:2563eb,100:7c3aed&height=120&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:064e3b,50:059669,100:34d399&height=120&section=footer" />
 </div>
